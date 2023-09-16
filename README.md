@@ -1,2 +1,2 @@
-# user-research-repository
-Knowledge about Alby's users and user experiences
+# Alby User Research Repository
+This repo will serve as an open source user research repository for Alby and related products
